@@ -4,7 +4,7 @@ O sistema ACert é uma rede de relacionamento destinada aos discentes da Univers
 
 O projeto ACert visa ao desenvolvimento de um sistema (Rede de Social/Comunicação) transmissor de mensagens (Texto), imagens, vídeos e videochamadas com o objetivo de simplificar a comunicação entre os discentes da Universidade Federal de Goiás - UFG, garantido segurança ao usuário.
 
-O ACert é realizado no contexto das disciplinas de Requisitos de Software e Gerência de Projetos de Software. 
+O ACert é realizado no contexto das disciplinas de Requisitos de Software e Gerência de Projeto de Software. 
 
 Documentos disponíveis:
 
