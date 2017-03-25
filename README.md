@@ -1,4 +1,4 @@
-# Acert
+# ACert
 
 O sistema ACert é uma rede de relacionamento destinada aos discentes da Universidade  Federal de Goiás – UFG. Sua missão é conectar por um ou vários tipos de relações discentes de todos os cursos, para compartilhar valores e objetivos comuns. 
 
