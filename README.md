@@ -1,5 +1,7 @@
 # ACert
 
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=plastic)](https://github.com/matheuspiment/acert/blob/master/LICENSE)
+
 O sistema ACert é uma rede de relacionamento destinada aos discentes da Universidade  Federal de Goiás – UFG. Sua missão é conectar por um ou vários tipos de relações discentes de todos os cursos, para compartilhar valores e objetivos comuns. 
 
 O projeto ACert visa ao desenvolvimento de um sistema (Rede de Social/Comunicação) transmissor de mensagens (Texto), imagens, vídeos e videochamadas com o objetivo de simplificar a comunicação entre os discentes da Universidade Federal de Goiás - UFG, garantido segurança ao usuário.
