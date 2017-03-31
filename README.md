@@ -10,7 +10,7 @@ O ACert é realizado no contexto das disciplinas de Requisitos de Software e Ger
 
 Documentos disponíveis:
 
-* [Termo de Abertura](https://docs.google.com/document/d/1cGRoMoTDMcGJD3FlzIfmvmocCwNAXr-I3-kIiMywnXQ/edit?usp=sharing) (em construção) 
+* [Termo de Abertura](https://docs.google.com/document/d/1cGRoMoTDMcGJD3FlzIfmvmocCwNAXr-I3-kIiMywnXQ/edit?usp=sharing) (preliminar) 
 * [Especificação de Objetivos e Requisitos](https://drive.google.com/file/d/0B18heSPJ79L5cFB2dC14cDgzWW8/view?usp=sharing)
 
 > O projeto é uma iniciativa de alunos da instituição e **não** está vinculado à uiversidade.
