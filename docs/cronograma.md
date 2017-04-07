@@ -25,3 +25,17 @@
 | AT20 | AT18 | Verificação | 19/06/2017 | 26/06/2017 | 7 | R7 |
 | AT21 | AT18 | Validação | 21/06/2017 | 26/06/2017 | 5 | Cliente |
 | AT22 | AT20, AT21 | Validação | 27/06/2017 | 27/06/2017 | 1 | R1 |
+
+## Recurso
+
+| ID do Recurso | Recurso |
+|:-------------:|:-------:|
+| R1 | Gerente de Projeto |
+| R2 | Analise de Requisitos |
+| R3 | Arquiteto de Software |
+| R4 |  |
+| R5 | Desenvolvedor |
+| R6 | Analista de Teste |
+| R7 | Analista de Qualidade |
+
+
