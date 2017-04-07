@@ -1,7 +1,5 @@
 # Projeto ACert
 
-Gerênte de Projeto: [Matheus Pimenta](https://github.com/matheuspiment)
-
 ## Cronograma
 
 | ID da Atividade | Dependência | Atividade | Inicio | Término | Tempo Previsto (dias) | Recurso |
@@ -37,7 +35,14 @@ Gerênte de Projeto: [Matheus Pimenta](https://github.com/matheuspiment)
 | R1 | Gerente de Projeto |
 | R2 | Analise de Requisitos |
 | R3 | Arquiteto de Software |
-| R4 |  |
+| R4 | Designer |
 | R5 | Desenvolvedor |
 | R6 | Analista de Teste |
 | R7 | Analista de Qualidade |
+
+___
+
+Goiânia - GO
+Gerênte de Projeto: [Matheus Pimenta](https://github.com/matheuspiment)
+
+> A aprovação do patrocinador será obtida porteriomente.
