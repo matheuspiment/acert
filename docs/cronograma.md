@@ -28,7 +28,7 @@
 
 
 
-## Recurso
+## Recursos
 
 | ID do Recurso | Recurso |
 |:-------------:|:-------:|
