@@ -1,7 +1,6 @@
 # Projeto ACert
 
 Gerênte de Projeto: [Matheus Pimenta](https://github.com/matheuspiment)
-Goiânia - GO
 
 ## Cronograma
 
