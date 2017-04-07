@@ -1,5 +1,7 @@
 # Projeto ACert
 
+Gerênte de Projeto: [Matheus Pimenta](https://github.com/matheuspiment)
+
 ## Cronograma
 
 | ID da Atividade | Dependência | Atividade | Inicio | Término | Tempo Previsto (dias) | Recurso |
@@ -28,8 +30,6 @@
 | AT21 | AT18             | Validação                        | 21/06/2017 | 26/06/2017 | 5 | Cliente |
 | AT22 | AT20, AT21       | Validação                        | 27/06/2017 | 27/06/2017 | 1 | R1 |
 
-
-
 ## Recursos
 
 | ID do Recurso | Recurso |
@@ -41,7 +41,3 @@
 | R5 | Desenvolvedor |
 | R6 | Analista de Teste |
 | R7 | Analista de Qualidade |
- 
- 
-Gerênte de Projeto: [Matheus Pimenta](https://github.com/matheuspiment)
-
