@@ -1,4 +1,6 @@
-# Cronograma
+# Projeto ACert
+
+## Cronograma
 
 | ID da Atividade | Dependência | Atividade | Inicio | Término | Tempo Previsto (dias) | Recurso |
 |:---------------:|:-----------:|:---------:|:------:|:-------:|:---------------------:|:-------:|
@@ -39,5 +41,7 @@
 | R5 | Desenvolvedor |
 | R6 | Analista de Teste |
 | R7 | Analista de Qualidade |
-
+ 
+ 
+Gerênte de Projeto: [Matheus Pimenta](https://github.com/matheuspiment)
 
