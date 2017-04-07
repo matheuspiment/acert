@@ -1,5 +1,9 @@
 # Projeto ACert
 
+Goiânia - GO
+
+Gerênte de Projeto: [Matheus Pimenta](https://github.com/matheuspiment)
+
 ## Cronograma
 
 | ID da Atividade | Dependência | Atividade | Inicio | Término | Tempo Previsto (dias) | Recurso |
@@ -39,10 +43,3 @@
 | R5 | Desenvolvedor |
 | R6 | Analista de Teste |
 | R7 | Analista de Qualidade |
-
-___
-
-Goiânia - GO
-Gerênte de Projeto: [Matheus Pimenta](https://github.com/matheuspiment)
-
-> A aprovação do patrocinador será obtida porteriomente.
