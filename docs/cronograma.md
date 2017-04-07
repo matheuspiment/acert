@@ -26,6 +26,7 @@
 | AT21 | AT18 | Validação | 21/06/2017 | 26/06/2017 | 5 | Cliente |
 | AT22 | AT20, AT21 | Validação | 27/06/2017 | 27/06/2017 | 1 | R1 |
 
+
 ## Recurso
 
 | ID do Recurso | Recurso |
