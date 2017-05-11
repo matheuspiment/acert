@@ -12,19 +12,20 @@ O objetivo deste documento é identificar todas as pessoas, grupos ou organizaç
 
 * Classificação dos interessados quanto ao seu nível de enganjamento (Apoiador/Neutro/Resistente) deve ser conforme a tabela abaixo:
 
-|    | Nível de Enganjamento | Descrição |
-|:--:|:---------------------:|:---------:|
-| A | Apoiador | Suporta o Projeto |
-| N | Neutro | Tem conhecimento sobre o projeto, porém, está neutro |
-| R | Resistente | Não está de acordo e/ou pode prejudicar o andamento do projeto |
+| Nível de Enganjamento | Descrição |
+|:---------------------:|:---------:|
+| Desinformado | Sem conhecimento do projeto e impactos potenciais |
+| Resistente | Ciente do projeto e dos impactos potenciais e resistente à mudança |
+| Neutro | Ciente do projeto e mesmo assim não dá apoio ou resiste |
+| Apoiador | Ciente do projeto e dos impactos potenciais e dá apoio à mudança |
+| Lidera |  Ciente do projeto e dos impactos potenciais e ativamente engajado em garantir o êxito do
+projeto |
 
 ## Registro Das Partes Interessadas
 
-Seção com todos os detalhes relativos às partes identificadas.
+Seção com todos os detalhes relativos às partes identificadas, contendo a descrição das partes interessadas com informações organizacionais e de contato, dos principais requisitos e expequitativas de cada interessado, bem como as ações a serem tomadas com base na relação poder/interesse e classificação dos interessados quanto ao seu tipo.
 
-### Informações de Identificação
-
-Descrição das partes interessadas com informações organizacionais e de contato.
+### Identificação e Descrições
 
 | ID | Parte Interessada | Posição | Local | Papel | e-mail | Telefone |
 |:--:|:-----------------:|:-------:|:-----:|:-----:|:------:|:--------:|
@@ -36,9 +37,7 @@ Descrição das partes interessadas com informações organizacionais e de conta
 
 ### Informações de Avaliação
 
-Descrição dos principais requisitos e expequitativas de cada interessado, bem como as ações a serem tomadas com base na relação poder/interesse descrita na tabela abaixo:
-
-| ID | Requisitos Essenciais | Principais Expectativas | Influência | Fase de + Interesse | Grau de Poder | Grau de Interesse |
+| ID Parte Interessada | Requisitos Essenciais | Principais Expectativas | Influência | Fase de + Interesse | Grau de Poder | Grau de Interesse |
 |:--:|:---------------------:|:-----------------------:|:----------:|:-------------------:|:---------------:|:------------:|
 | 1 | Documento de Requisitos e Design | Definir uma arquitetura sólida que facilite a manutenção do software | Alta | Fase de Designer | Alto | Alto |
 | 2 | Possibilidade de Elicitar Requisitos | Elaborar um bom documento de requisitos que auxilie do desenvolvimento e evide custos/riscos| Muito Alta | Fase de Elicitação de Requisitos | Alto | Alto |
@@ -46,14 +45,16 @@ Descrição dos principais requisitos e expequitativas de cada interessado, bem 
 | 4 | Documento de Requisitos e Design | Encontrar falhas/defeitos durante os testes/verificações | Alta | Fase de Teste | Alto | Alto |
 | 5 | Todos | Entregar o projeto dentro do prazo e aceite pelo cliente | Altao| Alto |
 
-### Informações de Classificação
+## Gerenciamento do Nível de Engajamento
 
-Classificação dos interessados quanto ao seu tipo e nível de enganjamento.
+O engajamento atual é documentado usando a matriz de avaliação do nível de engajamento das
+partes interessadas, como mostrado abaixo, onde C indica o nível de engajamento atual e D indica o
+nível de engajamento desejado.
 
-| ID | Interna/Externa | Enganjamento |
-|:--:|:---------------:|:------------:|
-| 1 | Interno | Apoiador |
-| 2 | Interno | Apoiador |
-| 3 | Interno | Apoiador |
-| 4 | Interno | Apoiador |
-| 5 | Interno | Apoiador |
+| Parte Interessada | Engajamento Atual | Engajamento Desejado | Estratégia |
+|:-----------------:|:-----------------:|:--------------------:|:----------:|
+| 1 | Apoiador | Apoiador | Realizar reuniões de alinhamento semanais |
+| 2 | Neutro | Apoiador | Realizar reuniões de alinhamento semanais |
+| 3 | Neutro | Apoiador | Validar artefatos produzidos durante o fim das aulas, Manter o repositório atualizada para acompanhamento do projeto |
+| 4 | Neutro | Apoiador | Realizar reuniões de alinhamento semanais |
+| 5 | Lidera | Lidera | Realizar reuniões semanais, Identificar pontos de deficit de monitoramento e controle e engajar a equipe nesses pontos |
