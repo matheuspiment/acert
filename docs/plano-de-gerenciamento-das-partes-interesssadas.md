@@ -27,13 +27,13 @@ Seção com todos os detalhes relativos às partes identificadas, contendo a des
 
 ### Identificação e Descrições
 
-| ID | Parte Interessada | Posição | Local | Papel | e-mail | Telefone |
+| ID | Parte Interessada | Posição | Local | Papel | GitHub | Telefone |
 |:--:|:-----------------:|:-------:|:-----:|:-----:|:------:|:--------:|
-| 1 | Antonio Arlis Santos da Silva | Arquiteto de Software Junior | acert | Arquiteto de Software - Desenvolvedor | antonio.silva27@outlook.com | (62) 99189-236x |
-| 2 | Beatriz Nogueira Carvalho da Silveira | Engenheiro de Requisitos Junior | acert | Gerente/Analista de Requisitos - Analista de Teste |  | (62) 99195-1501 |
-| 3 | Gilmar Ferreira Arantes | Cliente | Professor UFG | Patrocinador | gilmar@inf.ufg.br | (62) 3521-1181 | 
-| 4 | Keslley Lima da Silva | Tester | acert | Analista de Qualidade - Analista de Teste - Desenvolvedor | | (62) 99389-1248 |
-| 5 | Matheus Ribeiro Pimenta Nunes | CEO - Full Stack Developer | | Gerênte de Projeto - Designer - Desenvolvedor| matheuspiment@hotmail.com | (62) 99662-869x | 
+| 1 | Antonio Arlis Santos da Silva | Arquiteto de Software Junior | acert | Arquiteto de Software - Desenvolvedor | antlisufg | (62) 99189-236x |
+| 2 | Beatriz Nogueira Carvalho da Silveira | Engenheiro de Requisitos Junior | acert | Gerente/Analista de Requisitos - Analista de Teste | BeatrizN | (62) 99195-1501 |
+| 3 | Gilmar Ferreira Arantes | Cliente | Professor UFG | Patrocinador | - | (62) 3521-1181 | 
+| 4 | Keslley Lima da Silva | Tester | acert | Analista de Qualidade - Analista de Teste - Desenvolvedor | keslleylima | (62) 99389-1248 |
+| 5 | Matheus Ribeiro Pimenta Nunes | CEO - Full Stack Developer | acert | Gerênte de Projeto - Designer - Desenvolvedor| matheuspiment | (62) 99662-869x | 
 
 ### Informações de Avaliação
 
@@ -47,9 +47,7 @@ Seção com todos os detalhes relativos às partes identificadas, contendo a des
 
 ## Gerenciamento do Nível de Engajamento
 
-O engajamento atual é documentado usando a matriz de avaliação do nível de engajamento das
-partes interessadas, como mostrado abaixo, onde C indica o nível de engajamento atual e D indica o
-nível de engajamento desejado.
+O engajamento atual e desejado é documentado usando a tabela abaixo, bem como a estratégia para manter ou alcançar o nível de engajamento.
 
 | Parte Interessada | Engajamento Atual | Engajamento Desejado | Estratégia |
 |:-----------------:|:-----------------:|:--------------------:|:----------:|
