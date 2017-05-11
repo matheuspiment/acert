@@ -24,6 +24,7 @@ Descrição das partes interessadas com informações organizacionais e de conta
 
 Descrição dos principais requisitos e expequitativas de cada interessado, bem como as ações a serem tomadas com base na relação poder/interesse descrita na tabela abaixo:
 
+![captura de tela 2017-05-11 as 15 35 31](https://cloud.githubusercontent.com/assets/14007153/25965850/9168668a-365f-11e7-9f5a-41af44de4943.png)
 
 | ID | Requisitos Essenciais | Principais Expectativas | Influência | Fase de + Interesse | Grau de Poder | Grau de Interesse |
 |:--:|:---------------------:|:-----------------------:|:----------:|:-------------------:|:---------------:|:------------:|
