@@ -20,14 +20,27 @@ Descrição das partes interessadas com informações organizacionais e de conta
 | 4 | Keslley Lima da Silva | Tester | acert | Analista de Qualidade - Analista de Teste - Desenvolvedor | | (62) 99389-1248 |
 | 5 | Matheus Ribeiro Pimenta Nunes | CEO - Full Stack Developer | | Gerênte de Projeto - Designer - Desenvolvedor| matheuspiment@hotmail.com | (62) 99662-869x | 
 
-### Informações de Avaliação e Classificação
+### Informações de Avaliação
 
-Descrição dos principais requisitos e expequitativas de cada interessado, bem com a sua classificalçao junto ao projeto.
+Descrição dos principais requisitos e expequitativas de cada interessado, bem como as ações a serem tomadas com base na relação poder/interesse descrita na tabela abaixo:
 
-| ID | Requisitos Essenciais | Principais Expectativas | Influência | Fase de + Interesse | Interna/Externa | Enganjamento |
+
+| ID | Requisitos Essenciais | Principais Expectativas | Influência | Fase de + Interesse | Grau de Poder | Grau de Interesse |
 |:--:|:---------------------:|:-----------------------:|:----------:|:-------------------:|:---------------:|:------------:|
-| 1 | Documento de Requisitos e Design | Definir uma arquitetura sólida que facilite a manutenção do software | Alta | Fase de Designer | Interno | Apoiador |
-| 2 | Possibilidade de Elicitar Requisitos | Elaborar um bom documento de requisitos que auxilie do desenvolvimento e evide custos/riscos| Muito Alta | Fase de Elicitação de Requisitos | Interno | Apoiador |
-| 3 | Um software que permita a comunicação e interação entre a comunidade universitária | Promover uma maior interação entre a comunidade universitária | Muito Alta | Todo o ciclo de vida | Interno | Apoiador |
-| 4 | Documento de Requisitos e Design | Definir uma arquitetura sólida | Alta | Fase de Teste | Interno | Apoiador |
-| 5 | Todos | Entregar o projeto dentro do prazo e aceite pelo cliente | Muito Alta | Todas | Interno | Apoiador |
+| 1 | Documento de Requisitos e Design | Definir uma arquitetura sólida que facilite a manutenção do software | Alta | Fase de Designer | Alto | Alto |
+| 2 | Possibilidade de Elicitar Requisitos | Elaborar um bom documento de requisitos que auxilie do desenvolvimento e evide custos/riscos| Muito Alta | Fase de Elicitação de Requisitos | Alto | Alto |
+| 3 | Um software que permita a comunicação e interação entre a comunidade universitária | Promover uma maior interação entre a comunidade universitária | Muito Alta | Todo o ciclo de vida | Alto | Alto |
+| 4 | Documento de Requisitos e Design | Encontrar falhas/defeitos durante os testes/verificações | Alta | Fase de Teste | Alto | Alto |
+| 5 | Todos | Entregar o projeto dentro do prazo e aceite pelo cliente | Altao| Alto |
+
+### Informações de Classificação
+
+Classificação dos interessados quanto ao seu tipo e nível de enganjamento (Apoiador/Neutro/Resistente)
+
+| ID | Interna/Externa | Enganjamento |
+|:--:|:---------------:|:------------:|
+| 1 | Interno | Apoiador |
+| 2 | Interno | Apoiador |
+| 3 | Interno | Apoiador |
+| 4 | Interno | Apoiador |
+| 5 | Interno | Apoiador |
