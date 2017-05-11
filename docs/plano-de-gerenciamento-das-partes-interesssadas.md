@@ -18,8 +18,7 @@ O objetivo deste documento é identificar todas as pessoas, grupos ou organizaç
 | Resistente | Ciente do projeto e dos impactos potenciais e resistente à mudança |
 | Neutro | Ciente do projeto e mesmo assim não dá apoio ou resiste |
 | Apoiador | Ciente do projeto e dos impactos potenciais e dá apoio à mudança |
-| Lidera |  Ciente do projeto e dos impactos potenciais e ativamente engajado em garantir o êxito do
-projeto |
+| Lidera |  Ciente do projeto e dos impactos potenciais e ativamente engajado em garantir o êxito do projeto |
 
 ## Registro Das Partes Interessadas
 
@@ -43,7 +42,7 @@ Seção com todos os detalhes relativos às partes identificadas, contendo a des
 | 2 | Possibilidade de Elicitar Requisitos | Elaborar um bom documento de requisitos que auxilie do desenvolvimento e evide custos/riscos| Muito Alta | Fase de Elicitação de Requisitos | Alto | Alto |
 | 3 | Um software que permita a comunicação e interação entre a comunidade universitária | Promover uma maior interação entre a comunidade universitária | Muito Alta | Todo o ciclo de vida | Alto | Alto |
 | 4 | Documento de Requisitos e Design | Encontrar falhas/defeitos durante os testes/verificações | Alta | Fase de Teste | Alto | Alto |
-| 5 | Todos | Entregar o projeto dentro do prazo e aceite pelo cliente | Altao| Alto |
+| 5 | Todos | Entregar o projeto dentro do prazo e aceite pelo cliente | Muito Alta | Todas | Alto | Alto |
 
 ## Gerenciamento do Nível de Engajamento
 
