@@ -6,11 +6,7 @@ O objetivo deste documento é identificar todas as pessoas, grupos ou organizaç
 
 ## Definições
 
-* As ações a serem tomadas com base na relação poder/interesse são descritas na tabela abaixo:
-
-![captura de tela 2017-05-11 as 15 35 31](https://cloud.githubusercontent.com/assets/14007153/25965850/9168668a-365f-11e7-9f5a-41af44de4943.png)
-
-* Classificação dos interessados quanto ao seu nível de enganjamento (Apoiador/Neutro/Resistente) devem ser conforme a tabela abaixo:
+* Classificação dos interessados quanto ao seu nível de enganjamento devem ser conforme a tabela abaixo:
 
 | Nível de Enganjamento | Descrição |
 |:---------------------:|:---------:|
@@ -30,12 +26,18 @@ O objetivo deste documento é identificar todas as pessoas, grupos ou organizaç
 | Baixo | 2 |
 | Muito baixo | 1 |
 
+* As ações a serem tomadas com base na relação poder/interesse são descritas na tabela abaixo:
 
-## Registro Das Partes Interessadas
+| Poder | Interesse | Ação |
+|:-----:|:---------:|:----:|
+| 5, 4 ou 3 | 5, 4 ou 3  | Gerenciar com atenção |
+| 5, 4 ou 3 | 2 ou 1  | Manter satisfeito |
+| 2 ou 1 | 5, 4 ou 3  | Manter informado |
+| 2 ou 1 | 2 ou 1 | Monitorar |
+
+## Identificação das Partes Interessadas
 
 Seção com todos os detalhes relativos às partes identificadas, contendo a descrição das partes interessadas com informações organizacionais e de contato, dos principais requisitos e expequitativas de cada interessado, bem como as ações a serem tomadas com base na relação poder/interesse e classificação dos interessados quanto ao seu tipo.
-
-### Identificação e Descrições
 
 | ID | Parte Interessada | Posição | Papel | e-mail | Telefone |
 |:--:|:-----------------:|:-------:|:-----:|:------:|:--------:|
@@ -50,8 +52,6 @@ Seção com todos os detalhes relativos às partes identificadas, contendo a des
  
 2. *A comunidade universitária é composta por docentes, discentes e servidores.*
 
-### Informações de Avaliação
-
 A análise e avaliação das partes interessadas é realizada pela obtenção da importância deste membro para o projeto. O grau de importância é o produto das seguintes características:
 
 * Interesse: representa a preocupação em relação aos objetivos do projeto.  
@@ -61,29 +61,29 @@ A análise e avaliação das partes interessadas é realizada pela obtenção da
 
 A análise e avaliação das partes interessadas do projeto estão descritas para cada membro na tabela abaixo:
 
-| ID Parte Interessada | Fase de + Interesse | Influência | Poder | Interesse | Impacto | Importância |
-|:--------------------:|:----------:|:-------------------:|:-----:|:---------:|:-------:|:-----------:|
-| 1 | Fase de Designer | 3 | 3 | 4 | 3 | 108 | 
-| 2 | Fase de Elicitação de Requisitos | 4 | 4 | 4 | 4 | 256 |
-| 3 | Todo o ciclo de vida | 5 | 5 | 5 | 5 | 625 |
-| 4 | Fase de Teste/Desenvolvimento | 2 | 2 | 3 | 2 | 24 |
-| 5 | Todo o ciclo de vida | 5 | 5 | 5 | 5 | 625 |
-| 6 | Fase de Elicitação de Requisitos | 3 | 2 | 5 | 2 | 60 |
+| ID Parte Interessada | Fase de + Interesse | Poder | Interesse | Ação |
+|:--------------------:|:-------------------:|:-----:|:---------:|:----:|
+| 1 | Fase de Designer | 3 | 4 | Gerenciar com atenção |
+| 2 | Fase de Elicitação de Requisitos | 4 | 4 | Gerenciar com atenção |
+| 3 | Todo o ciclo de vida | 5 | 5 | Gerenciar com atenção |
+| 4 | Fase de Teste/Desenvolvimento | 2 | 3 | Manter informado |
+| 5 | Todo o ciclo de vida | 5 | 5 | Gerenciar com atenção |
+| 6 | Fase de Elicitação de Requisitos | 2 | 5 | Manter informado |
 
-* *Os campos referentes aos requisitos essenciais e as principais expectativas não foram listados devido a sua "não aplicabilidade" ao projeto.*
+* *Os campos referentes aos requisitos essenciais, principais expectativas, impacto e interesse não foram listados devido a sua "não aplicabilidade" ao projeto.*
 
-## Gerenciamento do Nível de Engajamento
+## Gerenciamento das Partes Interessadas
 
-O engajamento atual e desejado é documentado usando a tabela abaixo, bem como a estratégia para manter ou alcançar o nível de engajamento.
+O engajamento atual, seu impacto, e o engajamento desejado é documentado usando a tabela abaixo, bem como a estratégia para manter ou alcançar o nível de engajamento.
 
-| Parte Interessada | Engajamento Atual | Engajamento Desejado | Estratégia |
-|:-----------------:|:-----------------:|:--------------------:|:----------:|
-| 1 | Apoiador | Apoiador | Realizar reuniões de alinhamento semanais |
-| 2 | Neutro | Apoiador | Realizar reuniões de alinhamento semanais |
-| 3 | Neutro | Apoiador | Validar artefatos produzidos no decorrer do projeto, Manter o repositório atualizada para acompanhamento do projeto |
-| 4 | Neutro | Apoiador | Realizar reuniões de alinhamento semanais |
-| 5 | Lidera | Lidera | Realizar reuniões semanais, Identificar pontos de deficit de monitoramento e controle e engajar a equipe nesses pontos |
-| 6 | Apoiador | Apoiador | Realizar reuniões constantes parar elicitar/validar requisitos, Realizar prototipação |
+| Parte Interessada | Engajamento Atual | Impacto | Engajamento Desejado | Estratégia |
+|:-----------------:|:-----------------:|:-------:|:--------------------:|:----------:|
+| 1 | Apoiador | Favorável |  Apoiador | Realizar reuniões de alinhamento semanais |
+| 2 | Neutro | Contrário | Apoiador | Realizar reuniões de alinhamento semanais |
+| 3 | Neutro | Contrário | Apoiador | Validar artefatos produzidos no decorrer do projeto, Manter o repositório atualizada para acompanhamento do projeto |
+| 4 | Neutro | Contrário | Apoiador | Realizar reuniões de alinhamento semanais |
+| 5 | Lidera | Favorável | Lidera | Realizar reuniões semanais, Identificar pontos de deficit de monitoramento e controle e engajar a equipe nesses pontos |
+| 6 | Apoiador | Favorável | Apoiador | Realizar reuniões constantes parar elicitar/validar requisitos, Realizar prototipação |
 
 ## Requisitos de Comunicação das Partes Interessadas
 
@@ -101,11 +101,11 @@ As informações das comunicações estão representadas na tabela abaixo:
 | ID | Descrição | Idioma | Canal | Periodicidade | Armazenamento|
 |:-----------------:|:-----------------:|:--------------------:|:----------:|:----------:|:----------:|
 | A | Comunicação entre integrantes | Português | Whatsapp | Constante | Backup realizado pela ferramenta |
-| B | Reunião não-presencial | Português | Skype | Semanal | Não é armazenado |
+| B | Reunião não-presencial | Português | Skype | Semanal | Gravação em vídeo |
 | C | Compartilhamento e armazenamento de arquivos | Português | Google Drive | Constante | Backup realizado pela ferramenta |
 | D | Compartilhamento de artefato | Português | GitHub | Constante | Backup realizado pela ferramenta |
-| E | Reunião de alinhamento do grupo | Português | Presencial | Constante | Não é armazenado |
-| F | Reunião gerencial | Português | Presencial | Semanal |  Não é armazenado |
+| E | Reunião de alinhamento do grupo | Português | Presencial | Constante | Ata de reunião |
+| F | Reunião gerencial | Português | Presencial | Semanal | Ata de reunião |
 | G | Reunião presencial | Português | Presencial | Constante | Documentos oficiais |
 
 A relação entre as partes interessadas é representada por um tabela onde o número identificador (ID das partes interessadas) encontra-se na vertical e a letra identificadora (ID da comunicação) encontra-se na horizontal. Na tabela abaixo, os campos do relacionamento descrevem o papel que a parte interessada possui na comunicação, caso o membro não participe daquela comunicação é descrito como "*".
