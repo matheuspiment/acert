@@ -1,6 +1,6 @@
 # Plano de Gerenciamento das Partes Interessadas
 
-# Histórico de Versões
+## Histórico de Versões
 
 | Autor | Descrição | Data |
 |:-----:|:---------:|:----:|
