@@ -12,16 +12,6 @@ O objetivo deste documento é identificar todas as pessoas, grupos ou organizaç
 
 ## 2. Definições
 
-* Classificação dos interessados quanto ao seu nível de enganjamento devem ser conforme a tabela abaixo:
-
-| Nível de Enganjamento | Descrição |
-|:---------------------:|:---------:|
-| Desinformado | Sem conhecimento do projeto e impactos potenciais |
-| Resistente | Ciente do projeto e dos impactos potenciais e resistente à mudança |
-| Neutro | Ciente do projeto e mesmo assim não dá apoio ou resiste |
-| Apoiador | Ciente do projeto e dos impactos potenciais e dá apoio à mudança |
-| Lidera |  Ciente do projeto e dos impactos potenciais e ativamente engajado em garantir o êxito do projeto |
-
 * Classificação dos níveis de influência, interesse e poder devem ser conforme a tabela abaixo:
 
 | Nível | Valor |
@@ -40,6 +30,16 @@ O objetivo deste documento é identificar todas as pessoas, grupos ou organizaç
 | 5, 4 ou 3 | 2 ou 1  | Manter satisfeito |
 | 2 ou 1 | 5, 4 ou 3  | Manter informado |
 | 2 ou 1 | 2 ou 1 | Monitorar |
+
+* Classificação dos interessados quanto ao seu nível de enganjamento devem ser conforme a tabela abaixo:
+
+| Nível de Enganjamento | Descrição |
+|:---------------------:|:---------:|
+| Desinformado | Sem conhecimento do projeto e impactos potenciais |
+| Resistente | Ciente do projeto e dos impactos potenciais e resistente à mudança |
+| Neutro | Ciente do projeto e mesmo assim não dá apoio ou resiste |
+| Apoiador | Ciente do projeto e dos impactos potenciais e dá apoio à mudança |
+| Lidera |  Ciente do projeto e dos impactos potenciais e ativamente engajado em garantir o êxito do projeto |
 
 ## 3. Identificação das Partes Interessadas
 
