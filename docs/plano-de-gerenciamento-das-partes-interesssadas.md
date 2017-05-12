@@ -9,8 +9,8 @@
 
 ## Sumário
 
-#### 1. [Introdução](https://github.com/matheuspiment/acert/blob/master/docs/plano-de-gerenciamento-das-partes-interesssadas.md#1-introdução)
-#### 2. [Definições](https://github.com/matheuspiment/acert/blob/master/docs/plano-de-gerenciamento-das-partes-interesssadas.md#2-definições)
+#### 1. [Introdução](https://github.com/matheuspiment/acert/blob/master/docs/plano-de-gerenciamento-das-partes-interesssadas.md#1-introdução-1)
+#### 2. [Definições](https://github.com/matheuspiment/acert/blob/master/docs/plano-de-gerenciamento-das-partes-interesssadas.md#2-definições-1)
 #### 3. [Identificação das Partes Interessadas](https://github.com/matheuspiment/acert/blob/master/docs/plano-de-gerenciamento-das-partes-interesssadas.md#3-identificação-das-partes-interessadas)
 #### 4. [Gerenciamento das Partes Interessadas](https://github.com/matheuspiment/acert/blob/master/docs/plano-de-gerenciamento-das-partes-interesssadas.md#4-gerenciamento-das-partes-interessadas)
 #### 5. [Requisitos de Comunicação das Partes Interessadas](https://github.com/matheuspiment/acert/blob/master/docs/plano-de-gerenciamento-das-partes-interesssadas.md#5-requisitos-de-comunicação-das-partes-interessadas)
