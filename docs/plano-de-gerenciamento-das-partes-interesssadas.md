@@ -20,7 +20,7 @@ O objetivo deste documento é identificar todas as pessoas, grupos ou organizaç
 | Apoiador | Ciente do projeto e dos impactos potenciais e dá apoio à mudança |
 | Lidera |  Ciente do projeto e dos impactos potenciais e ativamente engajado em garantir o êxito do projeto |
 
-* Classificação dos níveis de influência, imteresse e poder devem ser conforme a tabela abaixo:
+* Classificação dos níveis de influência, interesse e poder devem ser conforme a tabela abaixo:
 
 | Nível | Valor |
 |:---------------------:|:---------:|
