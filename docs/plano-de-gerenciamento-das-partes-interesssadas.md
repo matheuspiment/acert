@@ -5,6 +5,19 @@
 | Autor | Descrição | Data |
 |:-----:|:---------:|:----:|
 | Antonio Arlis e Matheus Pimenta | Definição do Plano de Gerenciamento das Partes Interessadas | 12/06/2017 |
+| Matheus Pimenta | Inclusão do sumário | 12/06/2017 |
+
+## Sumário
+
+#### 1. [Introdução](https://github.com/matheuspiment/acert/blob/master/docs/plano-de-gerenciamento-das-partes-interesssadas.md#1-introdução)
+#### 2. [Definições](https://github.com/matheuspiment/acert/blob/master/docs/plano-de-gerenciamento-das-partes-interesssadas.md#2-definições)
+#### 3. [Identificação das Partes Interessadas](https://github.com/matheuspiment/acert/blob/master/docs/plano-de-gerenciamento-das-partes-interesssadas.md#3-identificação-das-partes-interessadas)
+#### 4. [Gerenciamento das Partes Interessadas](https://github.com/matheuspiment/acert/blob/master/docs/plano-de-gerenciamento-das-partes-interesssadas.md#4-gerenciamento-das-partes-interessadas)
+#### 5. [Requisitos de Comunicação das Partes Interessadas](https://github.com/matheuspiment/acert/blob/master/docs/plano-de-gerenciamento-das-partes-interesssadas.md#5-requisitos-de-comunicação-das-partes-interessadas)
+#### 6. [Controle e Monitoramento](https://github.com/matheuspiment/acert/blob/master/docs/plano-de-gerenciamento-das-partes-interesssadas.md#6-controle-e-monitoramento)
+#### 7. [Aprovação](https://github.com/matheuspiment/acert/blob/master/docs/plano-de-gerenciamento-das-partes-interesssadas.md#7-aprovação)
+
+---
 
 ## 1. Introdução
 
