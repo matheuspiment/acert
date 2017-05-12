@@ -52,7 +52,7 @@ Seção com todos os detalhes relativos às partes identificadas, contendo a des
 
 ### Informações de Avaliação
 
-A análise e avaliação das partes interessadas é realizada pela obtenção da média da importância deste membro para o projeto. A média da importância é a média aritmética das seguintes características:
+A análise e avaliação das partes interessadas é realizada pela obtenção da importância deste membro para o projeto. O grau de importância é o produto das seguintes características:
 
 * Interesse: representa a preocupação em relação aos objetivos do projeto.  
 * Poder: representa o nível de autoridade no projeto.  
@@ -61,13 +61,14 @@ A análise e avaliação das partes interessadas é realizada pela obtenção da
 
 A análise e avaliação das partes interessadas do projeto estão descritas para cada membro na tabela abaixo:
 
-| ID Parte Interessada | Fase de + Interesse | Influência | Poder | Interesse | Impacto |
-|:--------------------:|:----------:|:-------------------:|:-----:|:---------:|:-------:|
-| 1 | Fase de Designer | 3 | 3 | 4 | 2 |
-| 2 | Fase de Elicitação de Requisitos | 4 | 4 | 4 | 4 |
-| 3 | Todo o ciclo de vida | 5 | 5 | 5 | 5 |
-| 4 | Fase de Teste/Desenvolvimento | 2 | 2 | 3 | 3 |
-| 5 | Todo o ciclo de vida | 5 | 5 | 5 | 5 |
+| ID Parte Interessada | Fase de + Interesse | Influência | Poder | Interesse | Impacto | Importância |
+|:--------------------:|:----------:|:-------------------:|:-----:|:---------:|:-------:|:-----------:|
+| 1 | Fase de Designer | 3 | 3 | 4 | 3 | 108 | 
+| 2 | Fase de Elicitação de Requisitos | 4 | 4 | 4 | 4 | 256 |
+| 3 | Todo o ciclo de vida | 5 | 5 | 5 | 5 | 625 |
+| 4 | Fase de Teste/Desenvolvimento | 2 | 2 | 3 | 2 | 24 |
+| 5 | Todo o ciclo de vida | 5 | 5 | 5 | 5 | 625 |
+| 6 | Fase de Elicitação de Requisitos | 3 | 2 | 5 | 2 | 60 |
 
 * *Os campos referentes aos requisitos essenciais e as principais expectativas não foram listados devido a sua "não aplicabilidade" ao projeto.*
 
@@ -79,20 +80,22 @@ O engajamento atual e desejado é documentado usando a tabela abaixo, bem como a
 |:-----------------:|:-----------------:|:--------------------:|:----------:|
 | 1 | Apoiador | Apoiador | Realizar reuniões de alinhamento semanais |
 | 2 | Neutro | Apoiador | Realizar reuniões de alinhamento semanais |
-| 3 | Neutro | Apoiador | Validar artefatos produzidos durante o fim das aulas, Manter o repositório atualizada para acompanhamento do projeto |
+| 3 | Neutro | Apoiador | Validar artefatos produzidos no decorrer do projeto, Manter o repositório atualizada para acompanhamento do projeto |
 | 4 | Neutro | Apoiador | Realizar reuniões de alinhamento semanais |
 | 5 | Lidera | Lidera | Realizar reuniões semanais, Identificar pontos de deficit de monitoramento e controle e engajar a equipe nesses pontos |
+| 6 | Apoiador | Apoiador | Realizar reuniões constantes parar elicitar/validar requisitos, Realizar prototipação |
 
 ## Requisitos de Comunicação das Partes Interessadas
 
 Todos as comunicações possuem as seguintes informações:
 
-ID: letra identificadora da comunicação.  
-Descrição: descrição da informação.  
-Idioma: idioma que será utilizado na comunicação.  
-Canal: canal utilizado na comunicação.  
-Periodicidade: frequência da realização da comunicação.  
-Armazenamento: como a comunicação é armazenada.  
+1. ID: letra identificadora da comunicação.  
+2. Descrição: descrição da informação.  
+3. Idioma: idioma que será utilizado na comunicação.  
+4. Canal: canal utilizado na comunicação.  
+5. Periodicidade: frequência da realização da comunicação.  
+6. Armazenamento: como a comunicação é armazenada.  
+
 As informações das comunicações estão representadas na tabela abaixo:  
 
 | ID | Descrição | Idioma | Canal | Periodicidade | Armazenamento|
