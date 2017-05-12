@@ -44,7 +44,7 @@ Seção com todos os detalhes relativos às partes identificadas, contendo a des
 | 3 | Gilmar Ferreira | Docente | Patrocinador | gilmar@inf.ufg.br | (62) 3521-118x | 
 | 4 | Keslley Lima | Estudante | Analista de Teste - Desenvolvedor | keslleyls@outlook.com | (62) 99389-124x |
 | 5 | Matheus Pimenta | Discente | Gerênte de Projeto/Qualidade | matheuspiment@hotmail.com | (62) 99662-869x | 
-| 6 | Comunidade Universitária | - | Fornecedores de Requisitos | - | - |
+| 6 | Comunidade Universitária | - | Fornecedor/Validador de Requisitos | - | - |
  
 1. *Os campos referentes ao local e ao tipo expectativas não foram listados devido ao fato de todos as partes interessadas são internas à Universidade Federal de Goiás.*
  
