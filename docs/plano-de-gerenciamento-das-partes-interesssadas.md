@@ -67,16 +67,14 @@ Seção com todos os detalhes relativos às partes identificadas, contendo a des
 | 5 | Matheus Pimenta | Discente | Gerênte de Projeto/Qualidade | matheuspiment@hotmail.com | (62) 99662-869x | 
 | 6 | Comunidade Universitária | - | Fornecedor/Validador de Requisitos | - | - |
  
-<pre> 
-1. <i>Os campos referentes ao local e ao tipo expectativas não foram listados devido ao fato de todos 
+<pre> 1. <i>Os campos referentes ao local e ao tipo expectativas não foram listados devido ao fato de todos 
 as partes interessadas são internas à Universidade Federal de Goiás.</i>
  
 2. <i>A comunidade universitária é composta por docentes, discentes e servidores.</i>
 
 3. <i>Os papéis que contêm um asterisco podem não representar o papél real do interessado no projeto 
 e possui caráter representativo, tendo em vista que o mesmo possui uma equipe reduzida, onde um 
-indivíduo possui mais de um papél.</i>
-</pre>
+indivíduo possui mais de um papél.</i></pre>
 
 A análise e avaliação das partes interessadas é realizada pela obtenção da importância deste membro para o projeto. O grau de importância é o produto das seguintes características:
 
@@ -96,11 +94,9 @@ A análise e avaliação das partes interessadas do projeto estão descritas par
 | 5 | Todo o ciclo de vida | 5 | 5 | Gerenciar com atenção |
 | 6 | Fase de Elicitação de Requisitos | 2 | 5 | Manter informado |
 
-<pre>
-<i>Os campos referentes aos requisitos essenciais, principais expectativas, impacto e influência 
+<pre><i>Os campos referentes aos requisitos essenciais, principais expectativas, impacto e influência 
 não foram listados devido a sua "não aplicabilidade" ao projeto. Sabe-se que o Gerente do Projeto
-e do Patrocinador, no contexto desse projeto, possui maior influência e impacto que os demais papéis.</i>
-</pre>
+e do Patrocinador, no contexto desse projeto, possui maior influência e impacto que os demais papéis.</i></pre>
 
 ## 4. Gerenciamento das Partes Interessadas
 
