@@ -51,20 +51,22 @@ A análise e avaliação das partes interessadas é realizada pela obtenção da
 
 * Interesse: representa a preocupação em relação aos objetivos do projeto.  
 * Poder: representa o nível de autoridade no projeto.  
-* Influência: representa o engajamento ativo (efetuação dos serviços ou atividades com empenho) no projeto.  
+* Influência: representa o envolvimento ativo (efetuação dos serviços ou atividades com empenho) no projeto.  
 * Impacto: representa o nível do impacto nas decisões de mudanças no planejamento e/ou na execução do projeto.  
 
-<dev>Todos esses valores possuem um intervalo limite de 0.</dev> 
+Todos esses valores possuem um intervalo limite de 0. 
 
 A análise e avaliação das partes interessadas do projeto estão descritas para cada membro na tabela abaixo:
 
-| ID Parte Interessada | Requisitos Essenciais | Principais Expectativas | Influência | Fase de + Interesse | Grau de Poder | Grau de Interesse |
-|:--:|:---------------------:|:-----------------------:|:----------:|:-------------------:|:---------------:|:------------:|
-| 1 | Documento de Requisitos e Design | Definir uma arquitetura sólida que facilite a manutenção do software | Alta | Fase de Designer | Alto | Alto |
-| 2 | Possibilidade de Elicitar Requisitos | Elaborar um bom documento de requisitos que auxilie do desenvolvimento e evide custos/riscos| Muito Alta | Fase de Elicitação de Requisitos | Alto | Alto |
-| 3 | Um software que permita a comunicação e interação entre a comunidade universitária | Promover uma maior interação entre a comunidade universitária | Muito Alta | Todo o ciclo de vida | Alto | Alto |
-| 4 | Documento de Requisitos e Design | Encontrar falhas/defeitos durante os testes/verificações | Alta | Fase de Teste | Alto | Alto |
-| 5 | Todos | Entregar o projeto dentro do prazo e aceite pelo cliente | Muito Alta | Todas | Alto | Alto |
+| ID Parte Interessada | Fase de + Interesse | Influência | Poder | Interesse | Impacto |
+|:--------------------:|:----------:|:-------------------:|:-----:|:---------:|:-------:|
+| 1 | Fase de Designer | 3 | 3 | 4 | 2 |
+| 2 | Fase de Elicitação de Requisitos | 4 | 4 | 4 | 4 |
+| 3 | Todo o ciclo de vida | 5 | 5 | 5 | 5 |
+| 4 | Fase de Teste/Desenvolvimento | 2 | 2 | 3 | 3 |
+| 5 | Todo o ciclo de vida | 5 | 5 | 5 | 5 |
+
+* *Os campos referentes aos requisitos essenciais e as principais expectativas não foram listados devido a sua "não aplicabilidade" ao projeto.*
 
 ## Gerenciamento do Nível de Engajamento
 
