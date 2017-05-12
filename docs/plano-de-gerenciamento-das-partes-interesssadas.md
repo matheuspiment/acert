@@ -152,8 +152,10 @@ As estratégias definidas na seção 4 deverão ser executadas de modo a atingir
 
 1. A cada fase deve-se identificar a existência de novas partes interessadas, verificar se o engajamento planejado foi alcançado, identificar se partes interessadas se tornaram mais ou menos importantes.
 2. Identificar ao longo do projeto se existem problemas de relacionamento ou engajamento entre a equipe, ou se problemas não são derivados de alguma parte interessada engajada de forma resistente.
-3. Monitorar de forma individual as partes interessadas, a fim de identificar possíveis problemas de engajamento
+3. Monitorar de forma individual as partes interessadas, a fim de identificar possíveis problemas de engajamento.
 
 ## 7. Aprovação
 
 A aprovação será realizada por meio eletrônico/digital e sua evidência será linkada nessa secão.
+
+> A minha aprovação (Matheus Pimenta), como gerente de projeto já se torna explícita por meio desse commit.
