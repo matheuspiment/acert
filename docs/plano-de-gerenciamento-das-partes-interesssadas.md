@@ -58,14 +58,14 @@ Seção com todos os detalhes relativos às partes identificadas, contendo a des
  
 2. *A comunidade universitária é composta por docentes, discentes e servidores.*
 
-3. *Os papéis que contêm um asterisco (*) podem não representar o papél real do interessado no projeto e possui caráter representativo, tendo em vista que o mesmo possui uma equipe reduzida, onde um indivíduo possui mais de um papél*
+3. *Os papéis que contêm um asterisco podem não representar o papél real do interessado no projeto e possui caráter representativo, tendo em vista que o mesmo possui uma equipe reduzida, onde um indivíduo possui mais de um papél.*
 
 A análise e avaliação das partes interessadas é realizada pela obtenção da importância deste membro para o projeto. O grau de importância é o produto das seguintes características:
 
 * Interesse: representa a preocupação em relação aos objetivos do projeto.  
 * Poder: representa o nível de autoridade no projeto.  
-* Influência: representa o envolvimento ativo (efetuação dos serviços ou atividades com empenho) no projeto.  
-* Impacto: representa o nível do impacto nas decisões de mudanças no planejamento e/ou na execução do projeto.  
+* Influência: representa a capacidade de formação de opinição e o envolvimento ativo (efetuação dos serviços ou atividades com empenho) no projeto.
+* Impacto: representa o nível do impacto nas decisões de mudanças no planejamento e/ou na execução do projeto.
 
 A análise e avaliação das partes interessadas do projeto estão descritas para cada membro na tabela abaixo:
 
@@ -78,7 +78,7 @@ A análise e avaliação das partes interessadas do projeto estão descritas par
 | 5 | Todo o ciclo de vida | 5 | 5 | Gerenciar com atenção |
 | 6 | Fase de Elicitação de Requisitos | 2 | 5 | Manter informado |
 
-* *Os campos referentes aos requisitos essenciais, principais expectativas e impacto não foram listados devido a sua "não aplicabilidade" ao projeto.*
+* *Os campos referentes aos requisitos essenciais, principais expectativas, impacto e influência não foram listados devido a sua "não aplicabilidade" ao projeto. Sabe-se que o Gerente do Projeto e do Patrocinador, no contexto desse projeto, possui maior influência e impacto que os demais papéis.*
 
 ## 4. Gerenciamento das Partes Interessadas
 
