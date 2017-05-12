@@ -63,3 +63,34 @@ O engajamento atual e desejado é documentado usando a tabela abaixo, bem como a
 | 3 | Neutro | Apoiador | Validar artefatos produzidos durante o fim das aulas, Manter o repositório atualizada para acompanhamento do projeto |
 | 4 | Neutro | Apoiador | Realizar reuniões de alinhamento semanais |
 | 5 | Lidera | Lidera | Realizar reuniões semanais, Identificar pontos de deficit de monitoramento e controle e engajar a equipe nesses pontos |
+
+## Requisitos de Comunicação das Partes Interessadas
+
+Todos as comunicações possuem as seguintes informações:
+
+ID: letra identificadora da comunicação.  
+Descrição: descrição da informação.  
+Idioma: idioma que será utilizado na comunicação.  
+Canal: canal utilizado na comunicação.  
+Periodicidade: frequência da realização da comunicação.  
+Armazenamento: como a comunicação é armazenada.  
+As informações das comunicações estão representadas na tabela abaixo:  
+
+| ID | Descrição | Idioma | Canal | Periodicidade | Armazenamento|
+|:-----------------:|:-----------------:|:--------------------:|:----------:|:----------:|:----------:|
+| A | Comunicação entre integrantes | Português | Whatsapp | Constante | Backup realizado pela ferramenta |
+| B | Reunião não-presencial | Português | Skype | Semanal | Não é armazenado |
+| C | Compartilhamento e armazenamento de arquivos | Português | Google Drive | Constante | Backup realizado pela ferramenta |
+| D | Compartilhamento de artefato | Português | GitHub | Constante | Backup realizado pela ferramenta |
+| E | Reunião de alinhamento do grupo | Português | Presencial | Constante | Não é armazenado |
+| F | Reunião gerencial | Português | Presencial | Semanal |  Não é armazenado |
+
+A relação entre as partes interessadas é representada por um tabela onde o número identificador (ID das partes interessadas) encontra-se na vertical e a letra identificadora (ID da comunicação) encontra-se na horizontal. Na tabela abaixo, os campos do relacionamento descrevem o papel que a parte interessada possui na comunicação, caso o membro não participe daquela comunicação é descrito como "*".
+
+|  | A | B | C | D | E | F |
+|:-----------------:|:-----------------:|:--------------------:|:----------:|:----------:|:----------:|:----------:|
+| 1 | Utiliza o canal para solucionar dúvidas pontuais e de seu conhecimento | Ocasionalmente, para apresentação de soluções e dúvidas | Acessa e compartilha arquivos | Acessa e compartilha arquivos | Apresentação de dúvidas | Apresentação de dúvidas e esforços reais aplicados |
+| 2 | Utiliza o canal para solucionar dúvidas pontuais e de seu conhecimento | Ocasionalmente, para apresentação de soluções e dúvidas | Acessa e compartilha arquivos | Acessa e compartilha arquivos | Apresentação de dúvidas | Apresentação de dúvidas e esforços reais aplicados |
+| 3 | * | * | Visualiza arquivos | Visualiza arquivos | Apresentação de soluções | * |
+| 4 | Utiliza o canal para solucionar dúvidas pontuais e de seu conhecimento |  Ocasionalmente, para apresentação de soluções e dúvidas | Acessa e compartilha arquivos | Acessa e compartilha arquivos | Apresentação de dúvidas | Apresentação de dúvidas e esforços reais aplicados |
+| 5 | Utiliza o canal para solucionar dúvidas pontuais e de seu conhecimento |  Ocasionalmente, para apresentação de soluções e dúvidas | Acessa e compartilha arquivos | Acessa e compartilha arquivos | Apresentação de dúvidas |  Apresentação de soluções e monitoramento|
