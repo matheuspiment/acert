@@ -1,10 +1,16 @@
 # Plano de Gerenciamento das Partes Interessadas
 
-## Introdução
+# Histórico de Versões
+
+| Autor | Descrição | Data |
+|:-----:|:---------:|:----:|
+| Antonio Arlis e Matheus Pimenta | Definição do Plano de Gerenciamento das Partes Interessadas | 12/06/2017 |
+
+## 1. Introdução
 
 O objetivo deste documento é identificar todas as pessoas, grupos ou organizações que podem impactar ou serem impactados pelo projeto, analisar as expectativas das partes interessadas e seu impacto no projeto, e descrever estratégias de gerenciamento apropriadas para o engajamento eficaz das partes interessadas nas decisões e execução do projeto. 
 
-## Definições
+## 2. Definições
 
 * Classificação dos interessados quanto ao seu nível de enganjamento devem ser conforme a tabela abaixo:
 
@@ -35,7 +41,7 @@ O objetivo deste documento é identificar todas as pessoas, grupos ou organizaç
 | 2 ou 1 | 5, 4 ou 3  | Manter informado |
 | 2 ou 1 | 2 ou 1 | Monitorar |
 
-## Identificação das Partes Interessadas
+## 3. Identificação das Partes Interessadas
 
 Seção com todos os detalhes relativos às partes identificadas, contendo a descrição das partes interessadas com informações organizacionais e de contato, dos principais requisitos e expequitativas de cada interessado, bem como as ações a serem tomadas com base na relação poder/interesse e classificação dos interessados quanto ao seu tipo.
 
@@ -72,20 +78,20 @@ A análise e avaliação das partes interessadas do projeto estão descritas par
 
 * *Os campos referentes aos requisitos essenciais, principais expectativas, impacto e interesse não foram listados devido a sua "não aplicabilidade" ao projeto.*
 
-## Gerenciamento das Partes Interessadas
+## 4. Gerenciamento das Partes Interessadas
 
 O engajamento atual, seu impacto, e o engajamento desejado é documentado usando a tabela abaixo, bem como a estratégia para manter ou alcançar o nível de engajamento.
 
 | Parte Interessada | Engajamento Atual | Impacto | Engajamento Desejado | Estratégia |
 |:-----------------:|:-----------------:|:-------:|:--------------------:|:----------:|
-| 1 | Apoiador | Favorável |  Apoiador | Realizar reuniões de alinhamento semanais |
+| 1 | Apoiador | Favorável | Apoiador | Realizar reuniões de alinhamento semanais |
 | 2 | Neutro | Contrário | Apoiador | Realizar reuniões de alinhamento semanais |
 | 3 | Neutro | Contrário | Apoiador | Validar artefatos produzidos no decorrer do projeto, Manter o repositório atualizada para acompanhamento do projeto |
 | 4 | Neutro | Contrário | Apoiador | Realizar reuniões de alinhamento semanais |
 | 5 | Lidera | Favorável | Lidera | Realizar reuniões semanais, Identificar pontos de deficit de monitoramento e controle e engajar a equipe nesses pontos |
 | 6 | Apoiador | Favorável | Apoiador | Realizar reuniões constantes parar elicitar/validar requisitos, Realizar prototipação |
 
-## Requisitos de Comunicação das Partes Interessadas
+## 5. Requisitos de Comunicação das Partes Interessadas
 
 Todos as comunicações possuem as seguintes informações:
 
@@ -107,7 +113,9 @@ As informações das comunicações estão representadas na tabela abaixo:
 | E | Reunião gerencial | Português | Presencial | Semanal | Ata de reunião |
 | F | Reunião presencial | Português | Presencial | Constante | Documentos oficiais |
 
-A relação entre as partes interessadas é representada por um tabela onde o número identificador (ID das partes interessadas) encontra-se na vertical e a letra identificadora (ID da comunicação) encontra-se na horizontal. Na tabela abaixo, os campos do relacionamento descrevem o papel que a parte interessada possui na comunicação, caso o membro não participe daquela comunicação é descrito como "*".
+A relação entre as partes interessadas é representada por um tabela onde o número identificador (ID das partes interessadas) encontra-se na vertical e a letra identificadora (ID da comunicação) encontra-se na horizontal. 
+
+Na tabela abaixo, os campos do relacionamento descrevem o papel que a parte interessada possui na comunicação, caso o membro não participe daquela comunicação é descrito como "*".
 
 |  | A | B | C | D | E | F |
 |:-----------------:|:--------------------:|:----------:|:----------:|:----------:|:----------:|:----------:|
@@ -117,3 +125,15 @@ A relação entre as partes interessadas é representada por um tabela onde o n�
 | 4 | Utiliza o canal para solucionar dúvidas pontuais e de seu conhecimento | Acessa e compartilha arquivos | Acessa e compartilha arquivos | Apresentação de dúvidas | Apresentação de dúvidas e esforços reais aplicados |  Entendimento do dominio do problema |
 | 5 | Utiliza o canal para solucionar dúvidas pontuais e de seu conhecimento | Acessa e compartilha arquivos | Acessa e compartilha arquivos | Apresentação de dúvidas |  Apresentação de soluções e monitoramento| Entendimento do dominio do problema |
 | 6 | * | * | * | * | * | Fornece requisitos, dominio do problema e necessidades |
+
+## 6. Controle e Monitoramento
+
+As estratégias definidas na seção 4 deverão ser executadas de modo a atingir o engajamento planejado para cada parte interessada, levando em consideração as ações descritas na seção 3 e os requisitos da seção 5, além disso:
+
+1. A cada fase deve-se identificar a existência de novas partes interessadas, verificar se o engajamento planejado foi alcançado, identificar se partes interessadas se tornaram mais ou menos importantes.
+2. Identificar ao longo do projeto se existem problemas de relacionamento ou engajamento entre a equipe, ou se problemas não são derivados de alguma parte interessada engajada de forma resistente.
+3. Monitorar de forma individual as partes interessadas, a fim de identificar possíveis problemas de engajamento
+
+## 7. Aprovação
+
+A aprovação será realizada por meio eletrônico/digital e sua evidência será linkada nessa secão.
