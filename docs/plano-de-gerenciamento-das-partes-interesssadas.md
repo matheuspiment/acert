@@ -47,16 +47,18 @@ Seção com todos os detalhes relativos às partes identificadas, contendo a des
 
 | ID | Parte Interessada | Posição | Papel | e-mail | Telefone |
 |:--:|:-----------------:|:-------:|:-----:|:------:|:--------:|
-| 1 | Antonio Arlis | Discente | Designer/Arquiteto de Software | arlis@outlook.com.br | (62) 99189-236x |
-| 2 | Beatriz Nogueira | Discente | Gerente/Analista de Requisitos | beatrizncs@outlook.com | (62) 99195-150x |
+| 1 | Antonio Arlis | Discente | Designer/Arquiteto de Software * | arlis@outlook.com.br | (62) 99189-236x |
+| 2 | Beatriz Nogueira | Discente | Gerente/Analista de Requisitos * | beatrizncs@outlook.com | (62) 99195-150x |
 | 3 | Gilmar Ferreira | Docente | Patrocinador | gilmar@inf.ufg.br | (62) 3521-118x | 
-| 4 | Keslley Lima | Estudante | Analista de Teste - Desenvolvedor | keslleyls@outlook.com | (62) 99389-124x |
+| 4 | Keslley Lima | Estudante | Analista de Teste - Desenvolvedor * | keslleyls@outlook.com | (62) 99389-124x |
 | 5 | Matheus Pimenta | Discente | Gerênte de Projeto/Qualidade | matheuspiment@hotmail.com | (62) 99662-869x | 
 | 6 | Comunidade Universitária | - | Fornecedor/Validador de Requisitos | - | - |
  
 1. *Os campos referentes ao local e ao tipo expectativas não foram listados devido ao fato de todos as partes interessadas são internas à Universidade Federal de Goiás.*
  
 2. *A comunidade universitária é composta por docentes, discentes e servidores.*
+
+3. *Os papéis que contêm um asterisco (*) podem não representar o papél real do interessado no projeto e possui caráter representativo, tendo em vista que o mesmo possui uma equipe reduzida, onde um indivíduo possui mais de um papél*
 
 A análise e avaliação das partes interessadas é realizada pela obtenção da importância deste membro para o projeto. O grau de importância é o produto das seguintes características:
 
