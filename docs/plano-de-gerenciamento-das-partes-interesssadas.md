@@ -76,7 +76,7 @@ A análise e avaliação das partes interessadas do projeto estão descritas par
 | 5 | Todo o ciclo de vida | 5 | 5 | Gerenciar com atenção |
 | 6 | Fase de Elicitação de Requisitos | 2 | 5 | Manter informado |
 
-* *Os campos referentes aos requisitos essenciais, principais expectativas, impacto e interesse não foram listados devido a sua "não aplicabilidade" ao projeto.*
+* *Os campos referentes aos requisitos essenciais, principais expectativas e impacto não foram listados devido a sua "não aplicabilidade" ao projeto.*
 
 ## 4. Gerenciamento das Partes Interessadas
 
