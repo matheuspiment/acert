@@ -67,7 +67,7 @@ Seção com todos os detalhes relativos às partes identificadas, contendo a des
 | 5 | Matheus Pimenta | Discente | Gerênte de Projeto/Qualidade | matheuspiment@hotmail.com | (62) 99662-869x | 
 | 6 | Comunidade Universitária | - | Fornecedor/Validador de Requisitos | - | - |
  
-<pre> 1. <i>Os campos referentes ao local e ao tipo expectativas não foram listados devido ao fato de todos 
+<pre>1. <i>Os campos referentes ao local e ao tipo expectativas não foram listados devido ao fato de todos 
 as partes interessadas são internas à Universidade Federal de Goiás.</i>
  
 2. <i>A comunidade universitária é composta por docentes, discentes e servidores.</i>
