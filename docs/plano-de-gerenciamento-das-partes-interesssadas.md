@@ -36,6 +36,14 @@ Seção com todos os detalhes relativos às partes identificadas, contendo a des
 
 ### Informações de Avaliação
 
+A análise e avaliação das partes interessadas é realizada pela obtenção da média da importância deste membro para o projeto. A média da importância é a média aritmética das seguintes características:
+
+Interesse: representa a preocupação em relação aos objetivos do projeto.  
+Poder: representa o nível de autoridade no projeto.  
+Influência: representa o engajamento ativo (efetuação dos serviços ou atividades com empenho) no projeto.  
+Impacto: representa o nível do impacto nas decisões de mudanças no planejamento e/ou na execução do projeto.  
+Todos esses valores possuem um intervalo limite de 0. A análise e avaliação das partes interessadas do projeto estão descritas para cada membro na tabela abaixo:
+
 | ID Parte Interessada | Requisitos Essenciais | Principais Expectativas | Influência | Fase de + Interesse | Grau de Poder | Grau de Interesse |
 |:--:|:---------------------:|:-----------------------:|:----------:|:-------------------:|:---------------:|:------------:|
 | 1 | Documento de Requisitos e Design | Definir uma arquitetura sólida que facilite a manutenção do software | Alta | Fase de Designer | Alto | Alto |
