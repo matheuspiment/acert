@@ -101,20 +101,19 @@ As informações das comunicações estão representadas na tabela abaixo:
 | ID | Descrição | Idioma | Canal | Periodicidade | Armazenamento|
 |:-----------------:|:-----------------:|:--------------------:|:----------:|:----------:|:----------:|
 | A | Comunicação entre integrantes | Português | Whatsapp | Constante | Backup realizado pela ferramenta |
-| B | Reunião não-presencial | Português | Skype | Semanal | Gravação em vídeo |
-| C | Compartilhamento e armazenamento de arquivos | Português | Google Drive | Constante | Backup realizado pela ferramenta |
-| D | Compartilhamento de artefato | Português | GitHub | Constante | Backup realizado pela ferramenta |
-| E | Reunião de alinhamento do grupo | Português | Presencial | Constante | Ata de reunião |
-| F | Reunião gerencial | Português | Presencial | Semanal | Ata de reunião |
-| G | Reunião presencial | Português | Presencial | Constante | Documentos oficiais |
+| B | Compartilhamento e armazenamento de arquivos | Português | Google Drive | Constante | Backup realizado pela ferramenta |
+| C | Compartilhamento de artefato | Português | GitHub | Constante | Backup realizado pela ferramenta |
+| D | Reunião de alinhamento do grupo | Português | Presencial | Constante | Ata de reunião |
+| E | Reunião gerencial | Português | Presencial | Semanal | Ata de reunião |
+| F | Reunião presencial | Português | Presencial | Constante | Documentos oficiais |
 
 A relação entre as partes interessadas é representada por um tabela onde o número identificador (ID das partes interessadas) encontra-se na vertical e a letra identificadora (ID da comunicação) encontra-se na horizontal. Na tabela abaixo, os campos do relacionamento descrevem o papel que a parte interessada possui na comunicação, caso o membro não participe daquela comunicação é descrito como "*".
 
-|  | A | B | C | D | E | F | G |
-|:-----------------:|:-----------------:|:--------------------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| 1 | Utiliza o canal para solucionar dúvidas pontuais e de seu conhecimento | Ocasionalmente, para apresentação de soluções e dúvidas | Acessa e compartilha arquivos | Acessa e compartilha arquivos | Apresentação de dúvidas | Apresentação de dúvidas e esforços reais aplicados | Entendimento do dominio do problema |
-| 2 | Utiliza o canal para solucionar dúvidas pontuais e de seu conhecimento | Ocasionalmente, para apresentação de soluções e dúvidas | Acessa e compartilha arquivos | Acessa e compartilha arquivos | Apresentação de dúvidas | Apresentação de dúvidas e esforços reais aplicados | Coleta de requisitos e entendimento do dominio do problema |
-| 3 | * | * | Visualiza arquivos | Visualiza arquivos | Apresentação de soluções | * | * |
-| 4 | Utiliza o canal para solucionar dúvidas pontuais e de seu conhecimento |  Ocasionalmente, para apresentação de soluções e dúvidas | Acessa e compartilha arquivos | Acessa e compartilha arquivos | Apresentação de dúvidas | Apresentação de dúvidas e esforços reais aplicados |  Entendimento do dominio do problema |
-| 5 | Utiliza o canal para solucionar dúvidas pontuais e de seu conhecimento |  Ocasionalmente, para apresentação de soluções e dúvidas | Acessa e compartilha arquivos | Acessa e compartilha arquivos | Apresentação de dúvidas |  Apresentação de soluções e monitoramento| Entendimento do dominio do problema |
-| 6 | * | * | * | * | * | * | Fornece requisitos, dominio do problema e necessidades |
+|  | A | B | C | D | E | F |
+|:-----------------:|:--------------------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| 1 | Utiliza o canal para solucionar dúvidas pontuais e de seu conhecimento | Acessa e compartilha arquivos | Acessa e compartilha arquivos | Apresentação de dúvidas | Apresentação de dúvidas e esforços reais aplicados | Entendimento do dominio do problema |
+| 2 | Utiliza o canal para solucionar dúvidas pontuais e de seu conhecimento | Acessa e compartilha arquivos | Acessa e compartilha arquivos | Apresentação de dúvidas | Apresentação de dúvidas e esforços reais aplicados | Coleta de requisitos e entendimento do dominio do problema |
+| 3 | * | Visualiza arquivos | Visualiza arquivos | Apresentação de soluções | * | * |
+| 4 | Utiliza o canal para solucionar dúvidas pontuais e de seu conhecimento | Acessa e compartilha arquivos | Acessa e compartilha arquivos | Apresentação de dúvidas | Apresentação de dúvidas e esforços reais aplicados |  Entendimento do dominio do problema |
+| 5 | Utiliza o canal para solucionar dúvidas pontuais e de seu conhecimento | Acessa e compartilha arquivos | Acessa e compartilha arquivos | Apresentação de dúvidas |  Apresentação de soluções e monitoramento| Entendimento do dominio do problema |
+| 6 | * | * | * | * | * | Fornece requisitos, dominio do problema e necessidades |
