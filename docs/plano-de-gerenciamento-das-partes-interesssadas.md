@@ -5,7 +5,6 @@
 | Autor | Descrição | Data |
 |:-----:|:---------:|:----:|
 | Antonio Arlis e Matheus Pimenta | Definição do Plano de Gerenciamento das Partes Interessadas | 12/06/2017 |
-| Matheus Pimenta | Inclusão do sumário | 12/06/2017 |
 
 ## Sumário
 
