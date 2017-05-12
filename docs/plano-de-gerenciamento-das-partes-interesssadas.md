@@ -6,16 +6,6 @@
 |:-----:|:---------:|:----:|
 | Antonio Arlis e Matheus Pimenta | Definição do Plano de Gerenciamento das Partes Interessadas | 12/06/2017 |
 
-## Sumário
-
-### 1. [Introdução]()
-### 2. [Definições]()
-### 3. [Identificação das Partes Interessadas]()
-### 4. [Gerenciamento das Partes Interessadas]()
-### 5. [Requisitos de Comunicação das Partes Interessadas]()
-### 6. [Controle e Monitoramento]()
-### 7. [Aprovação]()
-
 ## 1. Introdução
 
 O objetivo deste documento é identificar todas as pessoas, grupos ou organizações que podem impactar ou serem impactados pelo projeto, analisar as expectativas das partes interessadas e seu impacto no projeto, e descrever estratégias de gerenciamento apropriadas para o engajamento eficaz das partes interessadas nas decisões e execução do projeto. 
