@@ -39,16 +39,11 @@ Seção com todos os detalhes relativos às partes identificadas, contendo a des
 
 | ID | Parte Interessada | Posição | Papel | e-mail | Telefone |
 |:--:|:-----------------:|:-------:|:-----:|:------:|:--------:|
-| 1 | Antonio Arlis | Discente | Designer/Arquiteto de Software | arlis@outlook.com.br | (62) 99189-236x |
-| 2 | Beatriz Nogueira | Discente | Gerente/Analista de Requisitos | beatrizncs@outlook.com | (62) 99195-150x |
-| 3 | Gilmar Ferreira | Docente | Patrocinador | gilmar@inf.ufg.br | (62) 3521-118x | 
-| 4 | Keslley Lima | Estudante | Analista de Teste - Desenvolvedor | keslleyls@outlook.com | (62) 99389-124x |
-| 5 | Matheus Pimenta | Discente | Gerênte de Projeto/Qualidade | matheuspiment@hotmail.com | (62) 99662-869x | 
-| 6 | Comunidade Universitária | - | Fornecedores de Requisitos | - | - |
-
-1. *Os campos referentes ao local e ao tipo expectativas não foram listados devido ao fato de todos as partes interessadas são internas à Universidade Federal de Goiás.*
-
-2. *A comunidade universitária é composta por docentes, discentes e servidores.*
+| 1 | Antonio Arlis | Estudante | Designer/Arquiteto de Software | arlis@outlook.com.br | (62) 99189-236x |
+| 2 | Beatriz Nogueira | Estudante | Gerente/Analista de Requisitos | beatrizncs@outlook.com | (62) 99195-1501 |
+| 3 | Gilmar Ferreira | Professor | Patrocinador | gilmar@inf.ufg.br | (62) 3521-1181 | 
+| 4 | Keslley Lima | Estudante | Analista de Teste - Desenvolvedor | keslleyls@outlook.com | (62) 99389-1248 |
+| 5 | Matheus Pimenta | Estudante | Gerênte de Projeto/Qualidade | matheuspiment@hotmail.com | (62) 99662-869x | 
 
 ### Informações de Avaliação
 
@@ -58,6 +53,8 @@ A análise e avaliação das partes interessadas é realizada pela obtenção da
 * Poder: representa o nível de autoridade no projeto.  
 * Influência: representa o envolvimento ativo (efetuação dos serviços ou atividades com empenho) no projeto.  
 * Impacto: representa o nível do impacto nas decisões de mudanças no planejamento e/ou na execução do projeto.  
+
+Todos esses valores possuem um intervalo limite de 0. 
 
 A análise e avaliação das partes interessadas do projeto estão descritas para cada membro na tabela abaixo:
 
@@ -103,13 +100,15 @@ As informações das comunicações estão representadas na tabela abaixo:
 | D | Compartilhamento de artefato | Português | GitHub | Constante | Backup realizado pela ferramenta |
 | E | Reunião de alinhamento do grupo | Português | Presencial | Constante | Não é armazenado |
 | F | Reunião gerencial | Português | Presencial | Semanal |  Não é armazenado |
+| G | Reunião presencial | Português | Presencial | Constante | Documentos oficiais |
 
 A relação entre as partes interessadas é representada por um tabela onde o número identificador (ID das partes interessadas) encontra-se na vertical e a letra identificadora (ID da comunicação) encontra-se na horizontal. Na tabela abaixo, os campos do relacionamento descrevem o papel que a parte interessada possui na comunicação, caso o membro não participe daquela comunicação é descrito como "*".
 
-|  | A | B | C | D | E | F |
-|:-----------------:|:-----------------:|:--------------------:|:----------:|:----------:|:----------:|:----------:|
-| 1 | Utiliza o canal para solucionar dúvidas pontuais e de seu conhecimento | Ocasionalmente, para apresentação de soluções e dúvidas | Acessa e compartilha arquivos | Acessa e compartilha arquivos | Apresentação de dúvidas | Apresentação de dúvidas e esforços reais aplicados |
-| 2 | Utiliza o canal para solucionar dúvidas pontuais e de seu conhecimento | Ocasionalmente, para apresentação de soluções e dúvidas | Acessa e compartilha arquivos | Acessa e compartilha arquivos | Apresentação de dúvidas | Apresentação de dúvidas e esforços reais aplicados |
-| 3 | * | * | Visualiza arquivos | Visualiza arquivos | Apresentação de soluções | * |
-| 4 | Utiliza o canal para solucionar dúvidas pontuais e de seu conhecimento |  Ocasionalmente, para apresentação de soluções e dúvidas | Acessa e compartilha arquivos | Acessa e compartilha arquivos | Apresentação de dúvidas | Apresentação de dúvidas e esforços reais aplicados |
-| 5 | Utiliza o canal para solucionar dúvidas pontuais e de seu conhecimento |  Ocasionalmente, para apresentação de soluções e dúvidas | Acessa e compartilha arquivos | Acessa e compartilha arquivos | Apresentação de dúvidas |  Apresentação de soluções e monitoramento|
+|  | A | B | C | D | E | F | G |
+|:-----------------:|:-----------------:|:--------------------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| 1 | Utiliza o canal para solucionar dúvidas pontuais e de seu conhecimento | Ocasionalmente, para apresentação de soluções e dúvidas | Acessa e compartilha arquivos | Acessa e compartilha arquivos | Apresentação de dúvidas | Apresentação de dúvidas e esforços reais aplicados | Entendimento do dominio do problema |
+| 2 | Utiliza o canal para solucionar dúvidas pontuais e de seu conhecimento | Ocasionalmente, para apresentação de soluções e dúvidas | Acessa e compartilha arquivos | Acessa e compartilha arquivos | Apresentação de dúvidas | Apresentação de dúvidas e esforços reais aplicados | Coleta de requisitos e entendimento do dominio do problema |
+| 3 | * | * | Visualiza arquivos | Visualiza arquivos | Apresentação de soluções | * | * |
+| 4 | Utiliza o canal para solucionar dúvidas pontuais e de seu conhecimento |  Ocasionalmente, para apresentação de soluções e dúvidas | Acessa e compartilha arquivos | Acessa e compartilha arquivos | Apresentação de dúvidas | Apresentação de dúvidas e esforços reais aplicados |  Entendimento do dominio do problema |
+| 5 | Utiliza o canal para solucionar dúvidas pontuais e de seu conhecimento |  Ocasionalmente, para apresentação de soluções e dúvidas | Acessa e compartilha arquivos | Acessa e compartilha arquivos | Apresentação de dúvidas |  Apresentação de soluções e monitoramento| Entendimento do dominio do problema |
+| 6 | * | * | * | * | * | * | Fornece requisitos, dominio do problema e necessidades |
