@@ -10,7 +10,7 @@ O objetivo deste documento é identificar todas as pessoas, grupos ou organizaç
 
 ![captura de tela 2017-05-11 as 15 35 31](https://cloud.githubusercontent.com/assets/14007153/25965850/9168668a-365f-11e7-9f5a-41af44de4943.png)
 
-* Classificação dos interessados quanto ao seu nível de enganjamento (Apoiador/Neutro/Resistente) deve ser conforme a tabela abaixo:
+* Classificação dos interessados quanto ao seu nível de enganjamento (Apoiador/Neutro/Resistente) devem ser conforme a tabela abaixo:
 
 | Nível de Enganjamento | Descrição |
 |:---------------------:|:---------:|
@@ -20,29 +20,43 @@ O objetivo deste documento é identificar todas as pessoas, grupos ou organizaç
 | Apoiador | Ciente do projeto e dos impactos potenciais e dá apoio à mudança |
 | Lidera |  Ciente do projeto e dos impactos potenciais e ativamente engajado em garantir o êxito do projeto |
 
+* Classificação dos níveis de influência, imteresse e poder devem ser conforme a tabela abaixo:
+
+| Nível | Valor |
+|:---------------------:|:---------:|
+| Muito Alto | 5 |
+| Alto | 4 |
+| Médio | 3 |
+| Baixo | 2 |
+| Muito baixo | 1 |
+
+
 ## Registro Das Partes Interessadas
 
 Seção com todos os detalhes relativos às partes identificadas, contendo a descrição das partes interessadas com informações organizacionais e de contato, dos principais requisitos e expequitativas de cada interessado, bem como as ações a serem tomadas com base na relação poder/interesse e classificação dos interessados quanto ao seu tipo.
 
 ### Identificação e Descrições
 
-| ID | Parte Interessada | Posição | Local | Papel | GitHub | Telefone |
-|:--:|:-----------------:|:-------:|:-----:|:-----:|:------:|:--------:|
-| 1 | Antonio Arlis Santos da Silva | Arquiteto de Software Junior | acert | Arquiteto de Software - Desenvolvedor | antlisufg | (62) 99189-236x |
-| 2 | Beatriz Nogueira Carvalho da Silveira | Engenheiro de Requisitos Junior | acert | Gerente/Analista de Requisitos - Analista de Teste | BeatrizN | (62) 99195-1501 |
-| 3 | Gilmar Ferreira Arantes | Cliente | Professor UFG | Patrocinador | - | (62) 3521-1181 | 
-| 4 | Keslley Lima da Silva | Tester | acert | Analista de Qualidade - Analista de Teste - Desenvolvedor | keslleylima | (62) 99389-1248 |
-| 5 | Matheus Ribeiro Pimenta Nunes | CEO - Full Stack Developer | acert | Gerênte de Projeto - Designer - Desenvolvedor| matheuspiment | (62) 99662-869x | 
+| ID | Parte Interessada | Posição | Papel | e-mail | Telefone |
+|:--:|:-----------------:|:-------:|:-----:|:------:|:--------:|
+| 1 | Antonio Arlis | Estudante | Designer/Arquiteto de Software | arlis@outlook.com.br | (62) 99189-236x |
+| 2 | Beatriz Nogueira | Estudante | Gerente/Analista de Requisitos | beatrizncs@outlook.com | (62) 99195-1501 |
+| 3 | Gilmar Ferreira | Professor | Patrocinador | gilmar@inf.ufg.br | (62) 3521-1181 | 
+| 4 | Keslley Lima | Estudante | Analista de Teste - Desenvolvedor | keslleyls@outlook.com | (62) 99389-1248 |
+| 5 | Matheus Pimenta | Estudante | Gerênte de Projeto/Qualidade | matheuspiment@hotmail.com | (62) 99662-869x | 
 
 ### Informações de Avaliação
 
 A análise e avaliação das partes interessadas é realizada pela obtenção da média da importância deste membro para o projeto. A média da importância é a média aritmética das seguintes características:
 
-Interesse: representa a preocupação em relação aos objetivos do projeto.  
-Poder: representa o nível de autoridade no projeto.  
-Influência: representa o engajamento ativo (efetuação dos serviços ou atividades com empenho) no projeto.  
-Impacto: representa o nível do impacto nas decisões de mudanças no planejamento e/ou na execução do projeto.  
-Todos esses valores possuem um intervalo limite de 0. A análise e avaliação das partes interessadas do projeto estão descritas para cada membro na tabela abaixo:
+* Interesse: representa a preocupação em relação aos objetivos do projeto.  
+* Poder: representa o nível de autoridade no projeto.  
+* Influência: representa o engajamento ativo (efetuação dos serviços ou atividades com empenho) no projeto.  
+* Impacto: representa o nível do impacto nas decisões de mudanças no planejamento e/ou na execução do projeto.  
+
+<dev>Todos esses valores possuem um intervalo limite de 0.</dev> 
+
+A análise e avaliação das partes interessadas do projeto estão descritas para cada membro na tabela abaixo:
 
 | ID Parte Interessada | Requisitos Essenciais | Principais Expectativas | Influência | Fase de + Interesse | Grau de Poder | Grau de Interesse |
 |:--:|:---------------------:|:-----------------------:|:----------:|:-------------------:|:---------------:|:------------:|
