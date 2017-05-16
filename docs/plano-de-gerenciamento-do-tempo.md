@@ -7,7 +7,7 @@
 | Antonio Arlis e Matheus Pimenta | Definição do Plano de Gerenciamento de Tempo | 15/05/2017 |
 
 #
-**Índice**
+### Índice
 
 1. Introdução
 2. Processo para o gerenciamento do cronograma    
