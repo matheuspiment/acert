@@ -1,6 +1,6 @@
 <h1> Plano de Gerenciamento de Tempo </h1>
 
-<h2> Histórico de Revisão </h2>
+### Histórico de Revisão 
 
 | Autor                           | Descrição                                    | Data       |
 |---------------------------------|----------------------------------------------|------------|
