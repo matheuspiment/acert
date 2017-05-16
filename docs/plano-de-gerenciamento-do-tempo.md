@@ -6,7 +6,8 @@
 |---------------------------------|----------------------------------------------|------------|
 | Antonio Arlis e Matheus Pimenta | Definição do Plano de Gerenciamento de Tempo | 15/05/2017 |
 
-#
+---
+
 ### Índice
 
 1. Introdução
@@ -21,7 +22,7 @@
 6.2 Detalhamento das atividades
 7. Referências
 
-#
+---
 
 ## 1. Introdução      
 Planejar o gerenciamento do cronograma é o processo de estabelecer as políticas, os procedimentos e a documentação para o planejamento, 
