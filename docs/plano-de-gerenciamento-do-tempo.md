@@ -6,22 +6,7 @@
 |---------------------------------|----------------------------------------------|------------|
 | Antonio Arlis e Matheus Pimenta | Definição do Plano de Gerenciamento de Tempo | 15/05/2017 |
 | Antonio Arlis e Matheus Pimenta | Descrição e detalhamento das atividades      | 16/05/2017 |
-
----
-
-### Índice
-
-1. Introdução
-2. Processo para o gerenciamento do cronograma    
-2.1 Definição e sequencia das atividades    
-2.2 Detalhamento das atividades
-3. Estimativa de recursos e duração da atividades
-4. Cronograma
-5. Controle do cronograma
-6. Processos para definição e manutenção do cronograma    
-6.1 Sequencia das atividades    
-6.2 Detalhamento das atividades
-7. Referências
+| Antonio Arlis e Matheus Pimenta | Reorganização da estrutura do documento      | 19/05/2017 |
 
 ---
 
@@ -32,12 +17,21 @@ orientação e instruções sobre como o cronograma do projeto será gerenciado 
 Plano de Gerenciamento de Tempo tem a finalidade de descrever os processos e atividades que deverão ser executadas até o término do projeto. 
 Garantindo que a Gerência de Tempo cumpra com os prazos definidos em um cronograma de atividades.
 
-## 2. Processo para o gerenciamento do cronograma    
-### 2.1 Definição e sequencia das atividades  
+## 2. Gerenciamento do Cronograma
+
+### 2.1 Desenvolvimento do Cronograma
+
+O cronograma foi desenvolvido com base nas atividades destacadas da Estrutura Analítica do Projeto, onde identificou-se a necessidade de se granular em atividades menores, de acordo com os artefatos, casos de uso, treinamentos e necessidades dos gerentes.
+
+Para desenvolver o cronograma será utilizado o método do caminho crítico descrito no PMBOK 5ª edição com o apoio das seguintes ferramentas:
+* draw.io
+* Google Sheets
+
+#### 2.1.1 Definição e Sequencia das Atividades  
 
 ![Imagem](https://github.com/matheuspiment/acert/blob/master/docs/diagrama%20cronograma.PNG)
 
-### 2.2 Detalhamento das atividades
+#### 2.1.2 Detalhamento das Atividades
 
 <pre>
 <strong>Atividade:</strong> Definir atividades
@@ -126,7 +120,7 @@ Garantindo que a Gerência de Tempo cumpra com os prazos definidos em um cronogr
 <strong>Tarefas:</strong>
  1. Estimativa dos tipos e quantidades dematerial, recursos humanos, equipamentos 
  ou suprimentos que serão necessários para realizar cada atividade.
- 2. Estimar "bottom-up"
+ 2. PERT (Program Evaluation and Review Technique)
  3. Analise de alternativas
  4. Estimativa análoga
  5. Estimativa paramétrica
@@ -212,30 +206,40 @@ Garantindo que a Gerência de Tempo cumpra com os prazos definidos em um cronogr
 <strong>Ferramentas:</strong> Suite Office 
 </pre>
 
-## 3. Estimativa de recursos e duração da atividades
-A análise das atividades a serem relizadas e suas unidades de medidas serão por meio de sua duração em dias ou horas.
-A medida em dias define o prazo em que a atividade sera desenvolvida, dessa forma especificando uma data de começo e uma de termino. 
-Já a medida em horas tem como objetico definir uma medição mais minunciosa da realização das tarefas, para que dessa forma o cálculo 
-dos custos seja mais preciso e possa ser alocado os recursos necessários para o desenvolvimento da atividade com a finalidade de cumprir
-o tempo programado.
 
-## 4. Cronograma
-O cronograma do projeto pode ser acessado clicando [aqui](https://github.com/matheuspiment/acert/blob/master/docs/cronograma.md).
+#### 2.1.3 Estimativas de Duração das Atividades
 
-## 5. Controle do cronograma
-Para o controle do cronograma, se tomará como base o [Plano de Gerenciamento da Integração](https://github.com/matheuspiment/acert/blob/master/docs/plano-integracao.pdf), o [cronograma](https://github.com/matheuspiment/acert/blob/master/docs/cronograma.md) e as informações de desempenho
-coletadas durante a execução do projeto. Para o cronogrma e tido como base a [WBS/EAP](https://github.com/matheuspiment/acert/blob/master/docs/EAP.png), que descreve as atividades a serem realizadas, 
-os dados do cronograma serão comparados com os dados reais com o objetivo de julgar se necessário a tomada de ações corretivas, preventivas 
-ou de mudança.
+A estimativa de tempo das atividades primordialmente de acordo com projetos anteriores, experiência dos gestores e com decisões em grupo. Tais formas apoiaram a estimativa do método PERT (Program Evaluation and Review Technique), desenvolvido pela empresa de consultoria Booz, Allen & Hamilton. O PERT consiste em estimar três cenários para as atividades, pessimista, realista e otimista e definir a estimativa de tempo para cada um destes cenários. A duração total da PERT é dada pela equação:
 
-## 6. Processos para definição e manutenção do cronograma
+**DE = (P + 4R + O)/6**
+
+Onde, DE corresponde à duração estimada total de uma atividade, P, R e O às estimativas pessimistas, realistas e otimistas, respectivamente, de uma atividade.
+
+### 2.2 Unidade de Medidas dos Recursos
+
+As unidades de medidas serão por meio de sua duração em dias ou horas.
+
+* A medida em dias define o prazo em que a atividade sera desenvolvida, dessa forma especificando uma data de começo e uma de termino. 
+* A medida em horas tem como objetico definir uma medição mais minunciosa da realização das tarefas, para que dessa forma o cálculo dos custos seja mais preciso e possa ser alocado os recursos necessários para o desenvolvimento da atividade com a finalidade de cumprir o tempo programado.
+
+### 2.3 Limites de Controle
+
+Os limites são expressos como percentagem de desvio dos parâmetros estabelecidos no plano e é calculado da seguinte forma:
+
+**Desvio = (DE/DR) * 100**
+
+Onde, DE corresponde à duração estimada total de uma atividade ou um conjunto delas, DR é a duração real da atividade ou conjunto delas.
+
+### 2.4 Processo de Manutenção do Cronograma
+
 O processo de manutenção do cronograma ocorre sempre que se julga necessário uma mudança nas atividades do cronograma, durante 
 a execução do projeto.
-### 6.1 Sequencia das atividades    
+
+#### 2.4.1 Sequencia das atividades    
 
 ![Imagem](https://github.com/matheuspiment/acert/blob/master/docs/Mudan%C3%A7as%20no%20cronograma.PNG)
 
-### 6.2 Detalhamento das atividades
+#### 2.4.2 Detalhamento das atividades
 
 <pre>
 <strong>Atividade:</strong> Analisar a mudança e seu motivo  
@@ -364,6 +368,22 @@ a execução do projeto.
 <strong>Ferramentas:</strong> Suite Office, ferramenta de desenvolvimento do cronograma
 </pre>
 
+## 3. Cronograma
+O cronograma do projeto pode ser acessado clicando [aqui](https://github.com/matheuspiment/acert/blob/master/docs/cronograma.md).
 
-## 7. Referências
+## 4. Controle do Cronograma
+
+Para o controle do cronograma, se tomará como base:
+
+* O [Plano de Gerenciamento da Integração](https://github.com/matheuspiment/acert/blob/master/docs/plano-integracao.pdf); 
+* O [cronograma](https://github.com/matheuspiment/acert/blob/master/docs/cronograma.md);
+* As informações de desempenho coletadas durante a execução do projeto. 
+
+Para o cronogrma e tido como base:
+
+* [WBS/EAP](https://github.com/matheuspiment/acert/blob/master/docs/EAP.png), que descreve as atividades a serem realizadas.
+
+Os dados do cronograma serão comparados com os dados reais com o objetivo de julgar se necessário a tomada de ações corretivas, preventivas ou de mudança.
+
+## 5. Referências
 GUIA PMBOK. "Um guia do conjunto de conhecimentos em gerenciamento de projetos.", 5a. ed.- Português: Project Management Institute II, 2013.
