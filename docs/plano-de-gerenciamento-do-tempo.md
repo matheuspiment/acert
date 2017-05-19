@@ -8,6 +8,7 @@
 | Antonio Arlis e Matheus Pimenta | Descrição e detalhamento das atividades      | 16/05/2017 |
 | Antonio Arlis e Matheus Pimenta | Reorganização da estrutura do documento      | 19/05/2017 |
 | Antonio Arlis e Matheus Pimenta | Correção ortográfica                         | 19/05/2017 |
+| Antonio Arlis e Matheus Pimenta | Adicionado links para os artefatos           | 19/05/2017 |
 
 ---
 
@@ -370,19 +371,19 @@ a execução do projeto.
 </pre>
 
 ## 3. Cronograma
-O cronograma do projeto pode ser acessado clicando [aqui](https://github.com/matheuspiment/acert/blob/master/docs/cronograma.md).
+O cronograma do projeto pode ser acessado clicando [aqui](https://github.com/matheuspiment/acert/blob/master/docs/cronograma.md) ou pelo link https://github.com/matheuspiment/acert/blob/master/docs/cronograma.md.
 
 ## 4. Controle do Cronograma
 
 Para o controle do cronograma, se tomará como base:
 
-* O [Plano de Gerenciamento da Integração](https://github.com/matheuspiment/acert/blob/master/docs/plano-integracao.pdf); 
-* O [Cronograma](https://github.com/matheuspiment/acert/blob/master/docs/cronograma.md);
+* O [Plano de Gerenciamento da Integração](https://github.com/matheuspiment/acert/blob/master/docs/plano-integracao.pdf). Disponível também pelo link https://github.com/matheuspiment/acert/blob/master/docs/plano-integracao.pdf.
+* O [Cronograma](https://github.com/matheuspiment/acert/blob/master/docs/cronograma.md). Disponível também pelo link https://github.com/matheuspiment/acert/blob/master/docs/cronograma.md.
 * As informações de desempenho coletadas durante a execução do projeto. 
 
 Para o cronogrma é tido como base:
 
-* [WBS/EAP](https://github.com/matheuspiment/acert/blob/master/docs/EAP.png), que descreve as atividades a serem realizadas.
+* [WBS/EAP](https://github.com/matheuspiment/acert/blob/master/docs/EAP.png), que descreve as atividades a serem realizadas. Disponível também no link https://github.com/matheuspiment/acert/blob/master/docs/EAP.png.
 
 Os dados do cronograma serão comparados com os dados reais com o objetivo de julgar se necessário a tomada de ações corretivas, preventivas ou de mudança.
 
